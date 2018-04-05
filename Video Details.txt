@@ -1,0 +1,32 @@
+
+1:47:00 - Try except
+2:00:23 - functions
+2:11:00 - help  and dir
+<-2:24:00 - using functions
+2:26:00 - classes
+2:34::00 functions in classes
+2:05:00 :GlobalandLocalVariables: 
+2:45:00: inheritance
+2:54:00 - Files
+3:15:00 - Copying files
+3:19:00 Modules
+3:31:00 -Shuffle and close 
+3:35:00 - Sys module
+3:41: - time Module
+3:53:29 - turtle module
+4:18:24- Re Module
+4:27:54: Crawling the web - stocks
+4:45:54: Crawling the web - Weather
+4:45:54: Crawling the web - definition
+5:00:00 - PIP  - external modules
+5:21- Pretiffy
+5:44 - Searching dom
+ - Installing module
+
+8:27: - Creating CSV
+
+
+
+
+Important URLS
+https://blogs.msdn.microsoft.com/cdndevs/2015/03/11/python-and-data-sql-server-as-a-data-source-for-python-applications/

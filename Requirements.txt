@@ -1,0 +1,19 @@
+1. Store Contacts
+2. Store Basic information
+3. Store Addresses
+4. Store PhoneNumbers
+
+
+Store basic information in contactsBasic.txt 
+	ContactId(pk),FirstName, LastName , MiddleName,Gender
+Store Address information in contactsAddresses.txt
+	ContactId(fk), HNo,StreetName,Locality, LandMark,City, State, PIN Code, ContactTypeId
+Store Phone information in contactsPhones.txt
+	ContactId(fk), PhoneNumber, Code,PhoneTypeId
+
+
+
+1. Check for duplicates name,phone number
+2. Show all Contacts
+3. Show Contacts  Alphabetically
+4. Search on Name , Phone number and city

@@ -1,0 +1,1 @@
+{"SEQNAME": "ContactId", "STARTVALUE": 1, "STEPVALUE": 1, "CURRENTVALUE": 6}
